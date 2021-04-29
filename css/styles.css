@@ -1,0 +1,64 @@
+nav a{
+  color: #837D88;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 13px;
+  line-height: 13px;
+  letter-spacing: 1.5;
+}
+.hero{
+  background: #2D2641;
+}
+.hero h1{
+  color: #fff;
+  font-size: 72px;
+  line-height: 64px;
+}
+.hero p{
+  color: #fff;
+  font-size: 16px;
+}
+.hero a, .info a{
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 14px;
+}
+section h2{
+  color: #2C2830;
+  font-size: 72px;
+  line-height: 64px;
+}
+ul{
+  list-style: none;
+}
+section h3{
+  color: #2C2830;
+  font-size: 28px;
+}
+section p{
+  color: #837D88;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.info{
+  background-color: #2D2641;
+}
+.info h2{
+  color: #fff;
+  font-size: 56px;
+  line-height: 56px;
+}
+footer h3{
+  color: #837D88;
+  text-transform: uppercase;
+}
+footer a{
+  color: #2D2641;
+  text-decoration: none;
+  font-size: 13px;
+  line-height: 15px;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+}
