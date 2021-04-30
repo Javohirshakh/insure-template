@@ -1,24 +1,28 @@
-nav a{
+.info a, .hero a, nav a{
   color: #837D88;
   text-decoration: none;
   text-transform: uppercase;
   font-size: 13px;
   line-height: 13px;
   letter-spacing: 1.5;
+  font-family: 'Karla', sans-serif;
 }
 .hero{
   background: #2D2641;
 }
+section h2,
 .hero h1{
   color: #fff;
   font-size: 72px;
   line-height: 64px;
+  font-family: 'DM Serif Display', serif;
 }
 .hero p{
   color: #fff;
   font-size: 16px;
-}
-.hero a, .info a{
+  font-family: 'Karla', sans-serif;
+  font-weight: 400;  
+}.hero a, .info a{
   color: #fff;
   text-transform: uppercase;
   text-decoration: none;
@@ -35,11 +39,14 @@ ul{
 section h3{
   color: #2C2830;
   font-size: 28px;
+  font-family: 'DM Serif Display', serif;
 }
 section p{
   color: #837D88;
   font-size: 16px;
   line-height: 26px;
+  font-family: 'Karla', sans-serif;
+  font-weight: 400;
 }
 
 .info{
@@ -53,6 +60,7 @@ section p{
 footer h3{
   color: #837D88;
   text-transform: uppercase;
+  font-family: "Karla", sans-serif;
 }
 footer a{
   color: #2D2641;
@@ -61,4 +69,5 @@ footer a{
   line-height: 15px;
   text-transform: uppercase;
   letter-spacing: 1.5px;
+  font-family: "Karla", sans-serif;
 }
