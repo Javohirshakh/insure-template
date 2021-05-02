@@ -9,6 +9,7 @@
 }
 .hero{
   background: #2D2641;
+  display: flex;
 }
 section h2,
 .hero h1{
@@ -16,6 +17,13 @@ section h2,
   font-size: 72px;
   line-height: 64px;
   font-family: 'DM Serif Display', serif;
+}
+header{
+  display: flex;
+  justify-content: space-between;
+}
+nav{
+  display: flex;
 }
 .hero p{
   color: #fff;
@@ -32,6 +40,9 @@ section h2{
   color: #2C2830;
   font-size: 72px;
   line-height: 64px;
+}
+section ul{
+  display: flex;
 }
 ul{
   list-style: none;
@@ -51,11 +62,31 @@ section p{
 
 .info{
   background-color: #2D2641;
+  display: flex;
+  justify-content: space-between;
 }
 .info h2{
   color: #fff;
   font-size: 56px;
   line-height: 56px;
+}
+.socials{
+  display: flex;
+}
+.socials ul{
+  display: flex;
+}
+.socials h2{
+  display: none;
+}
+footer{
+  display: flex;
+}
+footer{
+  justify-content: space-between;
+}
+footer h2{
+  display: none;
 }
 footer h3{
   color: #837D88;
